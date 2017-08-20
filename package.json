@@ -2,7 +2,7 @@
   "name": "steamer-logic-component",
   "version": "0.0.1",
   "description": "logic component development starterkit",
-  "main": "./steamer/steamer-logic-component.js",
+  "main": "./.steamer/steamer-logic-component.js",
   "scripts": {
     "start": "gulp --gulpfile ./tools/gulpfile.js dev",
     "dev": "npm start",
@@ -14,8 +14,7 @@
     "url": "git+https://github.com/steamerjs/steamer-logic-component.git"
   },
   "keywords": [
-    "steamer",
-    "starterkit",
+    "steamer starterkit",
     "steamer",
     "logic",
     "component",

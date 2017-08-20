@@ -11,6 +11,8 @@ gulp.task('es5', () => {
     		   .pipe(babel({
 		            presets: [
 		            	'es2015',
+		            	'es2016',
+		            	'es2017'
 		            ],
 		            plugins: [
 		            	'transform-runtime'
